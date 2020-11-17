@@ -18,17 +18,17 @@
 
 ---
 #### Transmitter: 📶
-![](/Attachments/Pasted image 20201108121215.png)
+![](Attachments/Pasted image 20201108121215.png)
 
 #### Reciever: 📶
-![](/Attachments/Pasted image 20201108121304.png)
+![](Attachments/Pasted image 20201108121304.png)
 
 ---
 ### Basic working of Radio 
-![](/Attachments/Pasted image 20201108165056.png)
+![](Attachments/Pasted image 20201108165056.png)
 
 ---
-![](/Attachments/Pasted image 20201111214818.png)
+![](Attachments/Pasted image 20201111214818.png)
 
 ---
 
@@ -36,18 +36,18 @@
 Implementation of hardware components into software.
 
 **Wireless + Digital = Software Defined Radio**
-![](/Attachments/Pasted image 20201108124641.png)
+![](Attachments/Pasted image 20201108124641.png)
 
 ---
 
 #### What does that mean?
 It means that instead of turning around all those dials and turners to set the parameters of the radio communication like;
-![](/Attachments/Pasted image 20201108125754.png) 
+![](Attachments/Pasted image 20201108125754.png) 
 
 ---
 ...You can just do it on your computer system like
 
-![]/./Attachments/Pasted image 20201108151653.png) 
+![]/.Attachments/Pasted image 20201108151653.png) 
 
 ---
 
@@ -57,20 +57,20 @@ Hardware which, in a traditional radio would have processed the signal now work 
 ---
 
 **Filters**
-![](/Attachments/Pasted image 20201108153259.png)
+![](Attachments/Pasted image 20201108153259.png)
 
 ---
 **Amplifiers**
-![](/Attachments/Pasted image 20201108153357.png)
+![](Attachments/Pasted image 20201108153357.png)
 
 ---
 **Modulators and Demodulators**
-![](/Attachments/Pasted image 20201108153452.png)
+![](Attachments/Pasted image 20201108153452.png)
 
 ---
 #### So this means...
 Most modern radios you use and interact with are Software Defined Radios
-![](/Attachments/Pasted image 20201108154937.png)
+![](Attachments/Pasted image 20201108154937.png)
 
 ---
 ### How does it work?
@@ -88,13 +88,13 @@ Most modern radios you use and interact with are Software Defined Radios
 
 #### The *extremely complicated* version
 - The waves (sine) not represented by 2-D diagram, instead it is given a phase component
-![](/Attachments/Pasted image 20201108164058.png)
+![](Attachments/Pasted image 20201108164058.png)
 
 ---
 
 - Signal components named as I and Q waves
 - These signals are converted and mixed as I/Q signal and outputted
-![](/Attachments/Pasted image 20201108164429.png)
+![](Attachments/Pasted image 20201108164429.png)
 
 ---
 
@@ -107,16 +107,16 @@ But there's no need to worry as we just work upon the other end of the SDR inter
 #### RTL SDR 
 - Cheap USB dongle capable of receiveing signals from 500kHZ to 1.75GHz.
 - Based on Realtek RT2832U chipset 
- ![](/Attachments/IMG_20201108_170507.jpg)
+ ![](Attachments/IMG_20201108_170507.jpg)
 
 ---
 
-![](/Attachments/IMG_20201108_170413.jpg)
+![](Attachments/IMG_20201108_170413.jpg)
 
 ---
 #### HackRF
 - Open source SDR Board with Rx and Tx capabilities
-![](/Attachments/IMG_20201108_180133.jpg)
+![](Attachments/IMG_20201108_180133.jpg)
 
 ---
 ### SDR Tools
@@ -125,19 +125,19 @@ Some common SDR tools include:
 ---
 
 #### GNU Radio
-![](/Attachments/Pasted image 20201108185005.png)
+![](Attachments/Pasted image 20201108185005.png)
 
 ---
 #### gqrx
-![](/Attachments/Pasted image 20201108151653 1.png)
+![](Attachments/Pasted image 20201108151653 1.png)
 
 ---
 #### Universal Radio Hacker
-![](/Attachments/Pasted image 20201102144457 1.png)
+![](Attachments/Pasted image 20201102144457 1.png)
 
 ---
 #### Dragon OS
-![](/Attachments/Pasted image 20201111232319.png)
+![](Attachments/Pasted image 20201111232319.png)
 
 ---
 ...and
@@ -150,7 +150,7 @@ Some common SDR tools include:
 Now to showcase some of these tools and demo some cool SDR uses
 
 ---
-![](/Attachments/Pasted image 20201108181219.png)
+![](Attachments/Pasted image 20201108181219.png)
 
 ---
 ### Demo #1: Listening to 93.5 RED FM 📻
