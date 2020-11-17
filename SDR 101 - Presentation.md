@@ -1,4 +1,4 @@
-# SDR 101
+# SDR 101 - Presentation
 > By Siddharth Balyan 🥸
 
 ---
