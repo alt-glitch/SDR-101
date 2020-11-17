@@ -21,14 +21,14 @@
 <img src="Attachments/Pasted image 20201108121215.png" style="zoom:80%;" />
 
 #### Reciever: 📶
-![](Attachments/Pasted image 20201108121304.png)
+<img src="Attachments/Pasted image 20201108121304.png" style="zoom:80%;" />
 
 ---
 ### Basic working of Radio 
-![](Attachments/Pasted image 20201108165056.png)
+<img src="Attachments/Pasted image 20201108165056.png" style="zoom:80%;" />
 
 ---
-![](Attachments/Pasted image 20201111214818.png)
+<img src="Attachments/Pasted image 20201111214818.png" style="zoom:80%;" />
 
 ---
 
@@ -36,13 +36,13 @@
 Implementation of hardware components into software.
 
 **Wireless + Digital = Software Defined Radio**
-![](Attachments/Pasted image 20201108124641.png)
+<img src="Attachments/Pasted image 20201108124641.png" style="zoom:80%;" />
 
 ---
 
 #### What does that mean?
 It means that instead of turning around all those dials and turners to set the parameters of the radio communication like;
-![](Attachments/Pasted image 20201108125754.png) 
+<img src="Attachments/Pasted image 20201108125754.png" style="zoom:80%;" /> 
 
 ---
 ...You can just do it on your computer system like
@@ -57,20 +57,20 @@ Hardware which, in a traditional radio would have processed the signal now work 
 ---
 
 **Filters**
-![](Attachments/Pasted image 20201108153259.png)
+<img src="Attachments/Pasted image 20201108153259.png" style="zoom:80%;" />
 
 ---
 **Amplifiers**
-![](Attachments/Pasted image 20201108153357.png)
+<img src="Attachments/Pasted image 20201108153357.png" style="zoom:80%;" />
 
 ---
 **Modulators and Demodulators**
-![](Attachments/Pasted image 20201108153452.png)
+<img src="Attachments/Pasted image 20201108153452.png" style="zoom:80%;" />
 
 ---
 #### So this means...
 Most modern radios you use and interact with are Software Defined Radios
-![](Attachments/Pasted image 20201108154937.png)
+<img src="Attachments/Pasted image 20201108154937.png" style="zoom:80%;" />
 
 ---
 ### How does it work?
@@ -88,13 +88,13 @@ Most modern radios you use and interact with are Software Defined Radios
 
 #### The *extremely complicated* version
 - The waves (sine) not represented by 2-D diagram, instead it is given a phase component
-![](Attachments/Pasted image 20201108164058.png)
+<img src="Attachments/Pasted image 20201108164058.png" style="zoom:80%;" />
 
 ---
 
 - Signal components named as I and Q waves
 - These signals are converted and mixed as I/Q signal and outputted
-![](Attachments/Pasted image 20201108164429.png)
+<img src="Attachments/Pasted image 20201108164429.png" style="zoom:80%;" />
 
 ---
 
@@ -107,16 +107,16 @@ But there's no need to worry as we just work upon the other end of the SDR inter
 #### RTL SDR 
 - Cheap USB dongle capable of receiveing signals from 500kHZ to 1.75GHz.
 - Based on Realtek RT2832U chipset 
- ![](Attachments/IMG_20201108_170507.jpg)
+ <img src="Attachments/IMG_20201108_170507.jpg" style="zoom:80%;" />
 
 ---
 
-![](Attachments/IMG_20201108_170413.jpg)
+<img src="Attachments/IMG_20201108_170413.jpg" style="zoom:80%;" />
 
 ---
 #### HackRF
 - Open source SDR Board with Rx and Tx capabilities
-![](Attachments/IMG_20201108_180133.jpg)
+<img src="Attachments/IMG_20201108_180133.jpg" style="zoom:80%;" />
 
 ---
 ### SDR Tools
@@ -125,11 +125,11 @@ Some common SDR tools include:
 ---
 
 #### GNU Radio
-![](Attachments/Pasted image 20201108185005.png)
+<img src="Attachments/Pasted image 20201108185005.png" style="zoom:80%;" />
 
 ---
 #### gqrx
-![](Attachments/Pasted image 20201108151653 1.png)
+<img src="Attachments/Pasted image 20201108151653 1.png" style="zoom:80%;" />
 
 ---
 #### Universal Radio Hacker
@@ -137,7 +137,7 @@ Some common SDR tools include:
 
 ---
 #### Dragon OS
-![](Attachments/Pasted image 20201111232319.png)
+<img src="Attachments/Pasted image 20201111232319.png" style="zoom:80%;" />
 
 ---
 ...and
@@ -150,7 +150,7 @@ Some common SDR tools include:
 Now to showcase some of these tools and demo some cool SDR uses
 
 ---
-![](Attachments/Pasted image 20201108181219.png)
+<img src="Attachments/Pasted image 20201108181219.png" style="zoom:80%;" />
 
 ---
 ### Demo #1: Listening to 93.5 RED FM 📻
