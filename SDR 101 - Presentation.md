@@ -18,7 +18,7 @@
 
 ---
 #### Transmitter: 📶
-![](Attachments/Pasted image 20201108121215.png)
+<img src="Attachments/Pasted image 20201108121215.png" style="zoom:80%;" />
 
 #### Reciever: 📶
 ![](Attachments/Pasted image 20201108121304.png)
